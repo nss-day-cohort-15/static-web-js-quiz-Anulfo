@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+.header {
+    background-color: #3C8D0D;
+    width: 100%;
+}
+h1 {
+    font-family: "Times New Roman", Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+
+label {
+    color: white;
+}
